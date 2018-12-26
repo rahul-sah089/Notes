@@ -1,0 +1,20 @@
+Docker is a container management system.
+
+git add Keywrod of docker are devlop,ship and run anywhere.
+
+The idea of the docker is to easily develop the application and ship then anywhere 
+across the platform.
+
+Docker has the following components
+
+Docker for Mac − It allows one to run Docker containers on the Mac OS.
+
+Docker for Linux − It allows one to run Docker containers on the Linux OS.
+
+Docker for Windows − It allows one to run Docker containers on the Windows OS.
+
+Docker Engine − It is used for building Docker images and creating Docker containers.
+
+Docker Hub − This is the registry which is used to host various Docker images.
+
+Docker Compose − This is used to define applications using multiple Docker containers.
